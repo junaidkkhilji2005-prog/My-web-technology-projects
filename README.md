@@ -1,4 +1,4 @@
-WEB TECHNOLOGY PROJECTS 
+> WEB TECHNOLOGY PROJECTS 
 
 Project 1 > index.html,styleA.css,styleB.css,styleC.css
 
@@ -8,7 +8,7 @@ Project3 > index3.html,style3.css
 
 This is the All Projects of Web Technology
 
-Student Information
+> Student Information
 
 Name > Junaid Muhammad Ibrahim
 
